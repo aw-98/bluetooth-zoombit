@@ -4,6 +4,7 @@
     "description": "",
     "dependencies": {
         "core": "*",
+        "radio": "*", 
         "microphone": "*",
         "pxt-rekabit": "github:faridskyman/pxt-rekabit#v1.3.3",
         "bluetooth": "*"
